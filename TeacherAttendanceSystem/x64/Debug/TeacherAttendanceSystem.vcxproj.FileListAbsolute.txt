@@ -1,0 +1,20 @@
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.vcxproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.AddCourseForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.AddReminder.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.AddStudentForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.DeleteACourseForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.DeleteReminder.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.DeleteStudentForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.DisplayReminder.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.ForgotPassword.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.GetDate.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.Log-in Form.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.MainForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.MarkingAttendance.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.Sign-up Form.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.ViewAttendance.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.vcxproj.GenerateResource.cache
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.EmailForm.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.Warning.resources
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.EditAccount.resources

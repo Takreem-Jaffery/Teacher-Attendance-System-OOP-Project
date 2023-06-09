@@ -1,0 +1,204 @@
+  TeacherAttendanceSystem.AddCourseForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.AddReminder.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.AddStudentForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.DeleteACourseForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.DeleteReminder.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.DeleteStudentForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.DisplayReminder.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.EditAccount.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.EmailForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.ForgotPassword.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.GetDate.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.Log-in Form.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.MainForm.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.MarkingAttendance.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.Sign-up Form.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.ViewAttendance.resources - Embedded, ContainedInManifestFile, 
+  TeacherAttendanceSystem.Warning.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TeacherAttendanceSystem, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Course: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getCourseID(): PrivateScope, Public, HideBySig
+    getCourseName(): PrivateScope, Public, HideBySig
+    setCourseID(String): PrivateScope, Public, HideBySig
+    setCourseName(String): PrivateScope, Public, HideBySig
+Class Fine: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Fine*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getFine(): PrivateScope, Public, HideBySig
+    setFineAmount(String): PrivateScope, Public, HideBySig
+    setFine(Int32): PrivateScope, Public, HideBySig
+    getFineAmount(): PrivateScope, Public, HideBySig
+    op_Assign(Fine* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig, SpecialName
+Class Person: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getName(): PrivateScope, Public, HideBySig
+    getEmail(): PrivateScope, Public, HideBySig
+    getTeacherID(): PrivateScope, Public, HideBySig
+    setName(String): PrivateScope, Public, HideBySig
+    setEmail(String): PrivateScope, Public, HideBySig
+    setTeacherID(String): PrivateScope, Public, HideBySig
+    printEmail(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+Class Student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Person
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, Int32, System.ValueType[], Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Fine fine : Public
+  Methods:
+    getWarning(): PrivateScope, Public, HideBySig
+    op_Increment(): PrivateScope, Public, HideBySig, SpecialName
+    op_GreaterThanOrEqual(Int32): PrivateScope, Public, HideBySig, SpecialName
+    getRollNo(): PrivateScope, Public, HideBySig
+    getCourseID(): PrivateScope, Public, HideBySig
+    getAttendance(): PrivateScope, Public, HideBySig
+    setWarning(Int32): PrivateScope, Public, HideBySig
+    setRollNo(String): PrivateScope, Public, HideBySig
+    setCourseID(String): PrivateScope, Public, HideBySig
+    setAttendance(ValueType[]): PrivateScope, Public, HideBySig
+    printEmail(): PrivateScope, Public, Virtual, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class Teacher: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :Person
+    Void .ctor(System.String, System.String, System.String, System.String, System.String, Course[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    getPassword(): PrivateScope, Public, HideBySig
+    getDate(): PrivateScope, Public, HideBySig
+    getCourse(): PrivateScope, Public, HideBySig
+    setPassword(String): PrivateScope, Public, HideBySig
+    setDate(String): PrivateScope, Public, HideBySig
+    setCourse(Course[]): PrivateScope, Public, HideBySig
+    AddCourse(String, String): PrivateScope, Public, HideBySig
+    printEmail(): PrivateScope, Public, Virtual, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class Reminder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String Reminder : Public
+Class Email: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Student, Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TeacherAttendanceSystem.AddCourseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TeacherAttendanceSystem.AddReminder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    Reminder users : Public
+    Boolean reminderSet : Public
+    Boolean reminderCancel : Public
+Class TeacherAttendanceSystem.AddStudentForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Student student : Public
+Class TeacherAttendanceSystem.DeleteACourseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TeacherAttendanceSystem.DeleteReminder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+Class TeacherAttendanceSystem.DeleteStudentForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TeacherAttendanceSystem.DisplayReminder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    Boolean reminderIs : Public
+Class TeacherAttendanceSystem.EditAccount: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    System.String dataChange : Public
+Class TeacherAttendanceSystem.EmailForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher, Student): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    Student student : Public
+Class TeacherAttendanceSystem.ForgotPassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class TeacherAttendanceSystem.GetDate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String date : Public
+Class TeacherAttendanceSystem.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher user : Public
+    Boolean switchToSignup : Public
+Class TeacherAttendanceSystem.MarkingAttendance: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Student, Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Student student : Public
+    Teacher teacher : Public
+    Boolean buttonClicked : Public
+  Events:
+    System.Windows.Forms.FormClosedEventHandler FormClosed: SpecialName
+  Methods:
+    add_FormClosed(FormClosedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+    remove_FormClosed(FormClosedEventHandler): PrivateScope, Public, HideBySig, SpecialName
+Class TeacherAttendanceSystem.ViewAttendance: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher, Student): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    Student student : Public
+  Methods:
+    Selection(): PrivateScope, Public, HideBySig
+Class TeacherAttendanceSystem.Warning: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher teacher : Public
+    Student student : Public
+    Fine fine : Public
+Class TeacherAttendanceSystem.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Teacher): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    TeacherAttendanceSystem.GetDate getdate IsByValue : Public, InitOnly
+    Boolean loggedout : Public
+Class TeacherAttendanceSystem.SignupForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Teacher user : Public
+    Boolean switchToLogin : Public

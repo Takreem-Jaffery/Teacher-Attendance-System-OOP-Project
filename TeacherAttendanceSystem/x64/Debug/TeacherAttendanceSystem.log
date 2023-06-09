@@ -1,0 +1,93 @@
+﻿  AddCourseForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+  AddReminder.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\AddReminder.h(248,21): warning C4101: 'e': unreferenced local variable
+  AddStudentForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+  DeleteACourseForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteACourseForm.h(267,22): warning C4101: 'e': unreferenced local variable
+  DeleteReminder.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(191,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(212,21): warning C4101: 'e': unreferenced local variable
+  DeleteStudentForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteStudentForm.h(362,23): warning C4101: 'e': unreferenced local variable
+  DisplayReminder.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DisplayReminder.h(114,21): warning C4101: 'e': unreferenced local variable
+  EditAccount.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\EditAccount.h(277,21): warning C4101: 'ex': unreferenced local variable
+  EmailForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+  Log-in Form.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ForgotPassword.h(221,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Log-in Form.h(283,21): warning C4101: 'e': unreferenced local variable
+  MainForm.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(444,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(467,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(495,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(415,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(506,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\AddReminder.h(248,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DisplayReminder.h(114,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(191,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(212,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteStudentForm.h(362,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteACourseForm.h(267,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\EditAccount.h(277,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(300,1): warning C4620: no postfix form of 'operator ++' found for type 'Student', using prefix form
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(134): message : see declaration of 'Student'
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(337,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(359,20): warning C4101: 'e': unreferenced local variable
+  MarkingAttendance.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(444,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(467,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(495,24): warning C4101: 'ex': unreferenced local variable
+  Program.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ForgotPassword.h(221,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Log-in Form.h(283,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Sign-up Form.h(388,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(444,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(467,25): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\MarkingAttendance.h(495,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(415,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(506,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\AddReminder.h(248,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DisplayReminder.h(114,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(191,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteReminder.h(212,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteStudentForm.h(362,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\DeleteACourseForm.h(267,22): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\EditAccount.h(277,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(300,1): warning C4620: no postfix form of 'operator ++' found for type 'Student', using prefix form
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(134): message : see declaration of 'Student'
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(337,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(359,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Program.cpp(10,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Sign-up Form.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Sign-up Form.h(388,21): warning C4101: 'ex': unreferenced local variable
+  ViewAttendance.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(415,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\ViewAttendance.h(506,23): warning C4101: 'e': unreferenced local variable
+  Warning.cpp
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(328,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(300,1): warning C4620: no postfix form of 'operator ++' found for type 'Student', using prefix form
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Student.h(134): message : see declaration of 'Student'
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(337,23): warning C4101: 'e': unreferenced local variable
+C:\Users\Dell\Desktop\TeacherAttendanceSystem\TeacherAttendanceSystem\Warning.h(359,20): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  AddCourseForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TeacherAttendanceSystem.vcxproj -> C:\Users\Dell\Desktop\TeacherAttendanceSystem\x64\Debug\TeacherAttendanceSystem.exe
